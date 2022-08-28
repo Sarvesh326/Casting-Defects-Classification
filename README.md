@@ -1,6 +1,7 @@
 # Casting-Defects-Classification
 
 Download the Dataset from: https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
+
 Casting is a manufacturing process in which a liquid material is usually poured into a mould, which contains a hollow cavity of the desired shape, and then allowed to solidify.
 Reason for collect this data is casting defects!!
 Casting defect is an undesired irregularity in a metal casting process.
